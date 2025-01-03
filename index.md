@@ -4,26 +4,15 @@
 
 ### School Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/41x.pdf?raw=true"/>
+[Thermal Diode](/sample_page)
 
 ---
-[Project 2 Title](/sample_page)
-<img src="images/spoon.png?raw=true"/>
+[Hand Tremor Spoon](/sample_page)
 
 ---
-[Project 3 Title](/sample_page)
-<img src="images/omnirobot.png?raw=true"/>
+[Autonomous Omnidirectional Robot](/sample_page)
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
