@@ -4,7 +4,7 @@
 
 ### School Projects 
 
-[Thermal Diode](/sample_page)
+[Thermal Diode](/page2)
 
 [Hand Tremor Spoon](/sample_page)
 
