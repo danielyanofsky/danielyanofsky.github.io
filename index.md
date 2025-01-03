@@ -6,6 +6,6 @@
 
 [Thermal Diode](/page2)
 
-[Hand Tremor Spoon](/sample_page)
+[Hand Tremor Spoon](/page3)
 
-[Autonomous Omnidirectional Robot](/sample_page)
+[Autonomous Omnidirectional Robot](/page4)
