@@ -10,14 +10,14 @@
 
 <img src="images/CrossSectionRender.jpg?raw=true"/>
 
-**Two Tier-4 Motor Design:**
+**Two-Tier and 4 Motor Design:**
+
 <img src="images/Render.png?raw=true"/>
 
 **Assembled Robot:**
 
 <img src="images/omnirobot.png?raw=true"/>
 
-<img src="images/assembled.png?raw=true"/>
 
 
 
