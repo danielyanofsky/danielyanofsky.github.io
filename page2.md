@@ -5,4 +5,4 @@ Inspired by the electric diode, where modern electronics have been revolutionize
 
 **Presentation Poster**:
 
-<img src="images/41x.pdf?raw=true"/>
+<img src="images/41x.jp2?raw=true"/>
