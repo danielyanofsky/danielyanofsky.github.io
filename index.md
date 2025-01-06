@@ -4,8 +4,10 @@
 
 ### School Projects 
 
-[Thermal Diode](/page2)
+[Autonomous Omnidirectional Robot](/page4)
 
 [Hand Tremor Spoon](/page3)
 
-[Autonomous Omnidirectional Robot](/page4)
+[Thermal Diode](/page2)
+
+
