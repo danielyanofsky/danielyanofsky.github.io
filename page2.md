@@ -6,6 +6,5 @@ Inspired by the electric diode, where modern electronics have been revolutionize
 **Presentation Poster**:
 [Presentation Poster](/images/41x.pdf)
 
-<img src="images/41x.pdf?raw=true"/>
 
 
