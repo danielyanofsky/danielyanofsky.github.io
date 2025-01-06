@@ -3,7 +3,7 @@ logo: # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   B.Eng, Mechanical Engineering
   <br><br>
-  <a href="https://www.linkedin.com/in/danielyanofsky1/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dyanofsky/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
